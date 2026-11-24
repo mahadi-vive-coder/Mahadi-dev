@@ -59,15 +59,13 @@ I enjoy turning ideas into digital experiences through design and development.
 
 ## ✦ Featured Projects
 
-<!-- Replace REPO_NAME with your repository names -->
-
 <div align="center">
 
-<a href="https://github.com/mahadi-vive-coder/REPO_NAME">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi-vive-coder&repo=REPO_NAME&theme=tokyonight&hide_border=true&border_radius=12" />
+<a href="https://github.com/mahadi-vive-coder/BD-Football-Live">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi-vive-coder&repo=BD-Football-Live&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
-<a href="https://github.com/mahadi-vive-coder/REPO_NAME">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi-vive-coder&repo=REPO_NAME&theme=tokyonight&hide_border=true&border_radius=12" />
+<a href="https://github.com/mahadi-vive-coder/cl">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahadi-vive-coder&repo=cl&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
 </div>
@@ -117,10 +115,12 @@ I enjoy turning ideas into digital experiences through design and development.
 <a href="https://github.com/mahadi-vive-coder">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<!-- Add more links when ready:
-<a href="YOUR_LINK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
--->
+<a href="https://www.facebook.com/mahadi.aevy">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:mahadihassanrafi2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
